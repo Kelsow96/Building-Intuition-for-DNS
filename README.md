@@ -1,4 +1,4 @@
-![Capture](https://github.com/Kelsow96/Building-Intuition-for-DNS/assets/169297569/39c1b7bc-e162-4b90-a4b3-41f7da926dc2)<h1> Building Intuition for DNS </h1>
+<h1> Building Intuition for DNS </h1>
 
 <img src="https://github.com/Kelsow96/Building-Intuition-for-DNS/assets/169297569/6bfbaa31-0873-4da5-b0fd-0b950082a531" width="400" />
 
