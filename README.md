@@ -29,6 +29,8 @@ These exercises cover essential concepts such as DNS record types (A-record, CNA
 <h2> Environments and Technologies Used: </h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
+- Domain Controller (DC-1)
+- Client Machine (Client-1)
 - DNS (Domain Name System) for managing hostname-to-IP address mappings
 - Remote Desktop
 - PowerShell
