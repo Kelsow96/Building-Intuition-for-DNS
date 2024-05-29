@@ -12,15 +12,15 @@ DNS stands for Domain Name System. It's like the internet's address book. When y
 
 In this tutorial we'll demonstrate and practice DNS (Domain Name System) management and troubleshooting tasks within a Windows environment by doing a few exercises.
 
-A-Record Exercise:
+**A-Record Exercise:**
 
 - Establishing connectivity between machines using DNS. Creating an A-record to map a hostname ("mainframe") to an IP address. Verifying successful DNS resolution after creating the A-record.
 
-Local DNS Cache Exercise:
+**Local DNS Cache Exercise:**
 
 - Understanding and observing local DNS caching on client machines. Modifying DNS records and observing the impact on DNS caching. Flushing DNS cache to clear outdated entries and force DNS resolution.
 
-CNAME Record Exercise:
+**CNAME Record Exercise:**
 
 - Creating a CNAME (Canonical Name) record to alias one hostname to another. Testing DNS resolution using CNAME records. Verify the CNAME resolution using the ping and nslookup commands.
 
